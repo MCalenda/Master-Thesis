@@ -266,7 +266,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 6,'The product will function alongside server software on any operating system where the Java runtime can be installed.',O,0,1
 6,'The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.',O,0,1
 6,'The product must make use of web/application server technology.',O,0,1
-6,'A database management system such as Oracle DB2, MySql or HSQL will need to be integrated with the product.',O,0,1
+6,'A database management system such as Oracle DB2 or MySql will need to be integrated with the product.',O,0,1
 6,'The product’s Look and Feel shall be able to incorporate aspects of the customer’s organization such as logo branding and identity',LF,0,1
 6,'The product shall have a conservative and professional appearance.',LF,0,1
 6,'80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.',US,0,1
@@ -380,7 +380,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 8,'The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.',MN,0,1
 8,'All aspects of the website shall be accessed by a web browser over the Internet.',O,0,1
 8,'The same hardware supporting the current website will be used to support the new system.',O,0,1
-8,'We must be able to interface with IE 5.X 6.0, Netscape 6.x 7.x 8.x and Firefox 1.0. browsers',O,0,1
+8,'We must be able to interface with Internet Explorer 5.X 6.0 and Firefox 1.0 browsers',O,0,1
 8,'Website must interface with the CyberSource API to process credit card transactions.',O,0,1
 8,'Website must be fully operational with MSN TV2.',O,0,1
 8,'Movies shall be encoded and streamed via Windows Media Player 9.0.',O,0,1
