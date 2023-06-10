@@ -18,7 +18,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 1,'The system shall offer a display of all the Events in the exercise.',F,1,0
 1,'The system shall filter data by Venues and Key Events.',F,1,0
 1,'The system shall allow a user to define the time segments',F,1,0
-1,'The system shall display the local and exercise time in separate clocks',F,1,0
+1,'The system shall display the local time and exercise time in separate clocks',F,1,0
 1,'The system shall offer the ability to pause and resume the refresh of data.',F,1,0
 1,'The system shall provide charts for the Activity or Event actual versus assumed time.',F,1,0
 1,'The system shall provide a history report of changes made to the Activity or Event data',F,1,0
@@ -43,11 +43,11 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 2,'The product shall retain user preferences in the event of a failure.',FT,1,0
 2,'100% of saved user preferences shall be restored when system comes back online.',FT,1,1
 2,'The product shall be able to support multiple remote users',SC,1,0
-2,'The product shall be able support 1000 simultaneous users.',SC,0,1
+2,'The product shall be able to support 1000 simultaneous users.',SC,0,1
 2,'The number of user is expected to grow 5 times within the next year.',SC,0,1
 2,'The product shall be installed by an untrained realtor without recourse to separately-printed instructions.',US,0,1
 2,'90% of untrained realtors shall be able to install the product on their device without printed instructions',US,0,1
-2,'The product is expected to run on Windows CE and Palm operating systems.',PO,0,1
+2,'The product is expected to run on Windows CE and on Palm operating systems.',PO,0,1
 2,'Only registered realtors shall be able to access the system.',SE,0,1
 2,'Every user of the system shall be authenticated and authorized.',SE,1,1
 2,'The product shall prevent its data from incorrect data being introduced.',SE,0,1
@@ -61,13 +61,13 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 2,'The realtor shall be able to retrieve a map showing property locations for a specified area',F,1,0
 2,'The system shall notify the realtor when a seller or buyer responds to an appointment request',F,1,0
 2,'The product shall allow the user to save the property search results.',F,1,0
-2,'The software product is expected to run on Windows or Linux platforms.',PO,0,1
+2,'The software product is expected to run on Windows platform or on Linux platform.',PO,0,1
 3,'The system shall be easy to use by the Program Administrators and Nursing Staff Members.',US,0,1
 3,'All of the users shall be able to use the system after one day of training.',US,0,1
 3,'The system shall help the user avoid making mistakes while scheduling classes and clinicals for the nursing students.',US,0,1
 3,'The number of mistakes noted by the students shall be decreased by 50% in the first year.',US,0,1
 3,'The system shall be intuitive to the Program Administrators and Nursing Staff Members.',US,0,1
-3,'2 out of 3 admin shall successfully be able to use the system to manage the scheduling of classes and clinicals.',US,1,1
+3,'2 out of 3 admin shall successfully be able to use the system to manage the scheduling of classes.',US,1,1
 3,'The system shall use symbols and words that are naturally understandable by the user community.',US,0,1
 3,'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.',US,0,1
 3,'Staff members shall be able to complete a set of tasks in a timely manner.',PE,0,1
@@ -138,7 +138,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 4,'The Disputes application shall comply with the corporate standards for user interface creation.',LF,0,1
 4,'All screens created as part of the Disputes application must comply with corporate standards for interface creation.',LF,0,1
 4,'The list of dispute cases that are displayed after a search is performed must be color coded.',US,0,1
-4,'100% of the cardmember and merchant services representatives shall use the Disputes application regularly after a 2-day training course.',US,0,1
+4,'100% of the cardmember services representatives shall use the Disputes application regularly after a 2-day training course.',US,0,1
 4,'100% of cardmember services representatives shall be able to successfully create a dispute case.',US,0,1
 4,'100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case.',US,0,1
 4,'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.',PE,0,1
@@ -380,7 +380,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 8,'The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.',MN,0,1
 8,'All aspects of the website shall be accessed by a web browser over the Internet.',O,0,1
 8,'The same hardware supporting the current website will be used to support the new system.',O,0,1
-8,'We must be able to interface with Internet Explorer 5.X 6.0 and Firefox 1.0 browsers',O,0,1
+8,'We must be able to interface with Internet Explorer 5.X and with Firefox 1.0 browsers',O,0,1
 8,'Website must interface with the CyberSource API to process credit card transactions.',O,0,1
 8,'Website must be fully operational with MSN TV2.',O,0,1
 8,'Movies shall be encoded and streamed via Windows Media Player 9.0.',O,0,1
@@ -420,7 +420,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 8,'System will allow customers to pay for a streaming movie with a pre-paid card.',F,1,0
 8,'Website shall allow customers to purchase pre-paid cards.',F,1,0
 8,'System shall automatically update the main page of the website every Friday.',F,1,0
-8,'System shall allow users to update their billing and contact information.',F,1,0
+8,'System shall allow users to update their billing and their contact information.',F,1,0
 8,'Pre-paid cards shall be distributed via email or via a printed paper card.',F,1,0
 8,'Only registered customers can purchase streaming movies.',F,1,0
 8,'Movies can only be streamed if the customer has purchased a movie.',F,1,0
@@ -522,9 +522,9 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 12,'The product shall accommodate any new technology without any change in its architecture.',MN,0,1
 12,'The product shall provide authentication and authorization.',SE,0,1
 12,'The product shall enable privacy by encryption WS-Security and Integrity Checking.',SE,0,1
-12,'The product shall store messages for a minimum of one year for audit and transaction tracking purposes.',SE,0,1
+12,'The product shall store messages for a minimum of one year for audit purposes.',SE,0,1
 13,'The interface must have one IBM logo and one CCR logo.',LF,0,1
-13,'The system shall use IBM and CCR branding standards.',LF,0,1
+13,'The system shall use IBM branding standards.',LF,0,1
 13,'The system shall be displayable on any work computer a CCR user may have.',LF,0,1
 13,'The system must use the same nomenclature used in the existing WCS system and reports',LF,0,1
 13,'Every report type must have at least one high level summary shown in the results dashboard',LF,1,1
@@ -538,7 +538,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 13,'The WCS system shall have the ability to include data for regions outside the United States.',SC,0,1
 13,'The WCS system shall be run in a Windows environment.',O,0,1
 13,'The WCS system must run queries to the WCS databases once again to update the available data available to CCR users.',MN,1,1
-13,'All changes updates and additions to the WCS system shall be updated in the WCS Developer and WCS User Guides.',MN,0,1
+13,'All changes updates to the WCS system shall be updated in the WCS Developer and in the WCS User Guides.',MN,0,1
 13,'Users must be authenticated using their IBM intranet user name and password.',SE,0,1
 13,'Cookies containing login information about a user will not be stored on a user’s computer.',SE,0,1
 14,'Each team owner will need to use a username and password in order to be authenticated to reach the team owner’s page',SE,0,1
@@ -546,7 +546,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 14,'Each page shall contain a navigation menu which shows the index into which the current page is contained.',LF,0,1
 14,'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.',LF,0,1
 14,'The messages in the main board will contain up to the first 150 characters of the message.',LF,1,0
-14,'A new user shall be able to navigate through the league and team pages within 30 seconds of reaching the start-up page.',US,0,1
+14,'A new user shall be able to navigate through the league page within 30 seconds of reaching the start-up page.',US,0,1
 14,'Users shall be able to reach the player pages with one click from the team owner’s page.',US,0,1
 14,'Users shall be able to view at least 25 NFL player statistics and points on each page.',US,1,1
 14,'The application shall ask the user to confirm dropping a player or trading a player before performing the action.',US,1,0
@@ -561,7 +561,7 @@ ProjectID,RequirementText,Class,IsFunctional,IsQuality
 15,'98% of the user workstations shall meet the minimum hardware requirements prior to implementation.',O,0,1
 15,'98% of the user workstations shall meet the minimum software requirements prior to implementation.',O,0,1
 15,'The RFS system should be able to easily interface with the BDW environment in order to load the data.',O,0,1
-15,'Changes to revenue and expense formulae must be applied to the RFS system every year prior to the budgeting process start.',MN,0,1
+15,'Changes to revenue must be applied to the RFS system every year.',MN,0,1
 15,'100% of the entities available as of October month-end will be loaded into the RFS system prior to the budget start process.',MN,0,1
 15,'Only authorized user shall access the RFS system.',SE,0,1
 15,'User access should be limited to the permissions granted to their role.',SE,0,1

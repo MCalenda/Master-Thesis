@@ -1,0 +1,465 @@
+RequirementText,Class
+'The system shall have a MDI form that allows for the viewing of the graph and the data table.',F
+'The system shall display Events in a vertical table by time.',F
+'The system shall display the Events in a graph by time.',F
+'The system shall display Events or Activities.',F
+'The top 1/4 of the table will hold events that are to occur sequentially.',F
+'The bottom 3/4 of the table will hold events that occur according to its relevance to current time.',F
+'The system shall color code events according to their variance from current time.',F
+'The system shall allow modification of the display.',F
+'The system shall offer a display of all the Events in the exercise.',F
+'The system shall filter data by Venues and Key Events.',F
+'The system shall allow a user to define the time segments',F
+'The system shall display the local time and exercise time in separate clocks',F
+'The system shall offer the ability to pause and resume the refresh of data.',F
+'The system shall provide charts for the Activity or Event actual versus assumed time.',F
+'The system shall provide a history report of changes made to the Activity or Event data',F
+'The system shall allow a real estate agent to query MLS information',F
+'The user shall be able to get driving directions to a selected property',F
+'The user shall be able to download appointments and contact information for clients',F
+'The system shall display clear property images in the search results',F
+'The system shall update or create new property listings in the MLS',F
+'The system shall be able to call the seller or buyer to schedule an appointment',F
+'The realtor shall be notified of new client appointments after automatic synchronization with office system',F
+'The realtor shall be able to retrieve a map showing property locations for a specified area',F
+'The system shall notify the realtor when a seller or buyer responds to an appointment request',F
+'The product shall allow the user to save the property search results.',F
+'Administrators shall be able to add a listing of students to a cohort.',F
+'Administrators shall be able to add a single student to a cohort',F
+'Students added to a cohort shall be eligible for the cohort’s Program of Study.',F
+'Administrators shall be able to specify the preferred sequence of classes for a given cohort.',F
+'Administrators shall be able to add new classes to a sequence of classes',F
+'Administrators shall be able to add clinical classes or sections to a sequence of classes',F
+'Administrators shall be able to add a new cohort to the system identified by start month and year.',F
+'Administrators shall be able to add new classes for the nursing department into the system.',F
+'A class shall be either a non-clinical class or a clinical class.',F
+'A non-clinical class shall specify the course name lecture room requirements and instructor needs.',F
+'Administrators shall be able to create a new Program of Study.',F
+'Administrators shall have the ability to specify which classes are required for a Program of Study',F
+'Classes for a given cohort shall not conflict with regards to the time and day that they are offered.',F
+'Administrators shall be able to add a new clinical site into the system.',F
+'Clinical site information shall include the name of the site contact person and contact information.',F
+'Administrators shall be able to add a new clinical lab section for an existing clinical class into the System.',F
+'A clinical lab section shall include the clinical site name the class instructor day and time of the lab.',F
+'Administrators shall be able to add a student who has registered for a clinical class to a clinical lab section for that class.',F
+'The system shall allow a Administrator to remove a student from a clinical lab section.',F
+'The system shall allow a Administrator to move a student from one clinical lab section to another.',F
+'Administrators shall be able to cancel a clinical lab section only if there are no students registered for that clinical lab section.',F
+'A Administrator shall be able to add a new nursing student to the system.',F
+'A staff member shall have the ability to manage the progress of a part time student.',F
+'The system shall be able to display a printable summary for individual cohorts.',F
+'The system shall be able to display a printable summary for individual clinical sites.',F
+'The system shall be able to display a printable summary for individual clinical labs.',F
+'The system shall be able to display a printable summary for individual nursing students.',F
+'The system shall be able to display a printable summary of the system log.',F
+'The system shall contain contact information for all people relevant to the system.',F
+'The system will use the stored e-mail addresses as a primary means of communicating information to affected parties.',F
+'The system will notify affected parties for routine communication purposes.',F
+'The system will notify affected parties when changes occur affecting clinicals.',F
+'The system will notify affected parties when changes occur affecting classes.',F
+'The system will notify affected parties when changes occur affecting cohorts.',F
+'The system will notify affected parties when changes occur affecting specific students.',F
+'Administrators shall have the ability to modify information relating to cohorts.',F
+'Administrators shall have the ability to modify information relating to a Program of Study within the Nursing Department.',F
+'Administrators shall have the ability to modify information relating to a Clinical Site.',F
+'Administrators shall have the ability to modify information relating to a Clinical Lab Section.',F
+'Administrators shall have the ability to modify information relating to a Nursing Student.',F
+'The Disputes System must be accessible by both internal and external users.',F
+'The Disputes System must prevent users from accessing any dispute cases that do not belong to their cardholder base.',F
+'The Disputes System will facilitate direct data entry of a dispute case via a user interface that supports real time responses to the users.',F
+'The Disputes System must provide different levels of access with regard to disputes case initiation and follow-up actions.',F
+'The Disputes System shall provide view access capability for authorized users of the application.',F
+'The Disputes System shall provide update access capability for authorized users of the application.',F
+'The Disputes System must allow the users to select disputable transactions from a user interface and initiate a dispute on the selected transaction.',F
+'The Disputes System must provide the user the ability to initiate a single dispute case on multiple transactions that belong to a single merchant.',F
+'The Disputes System will provide the user the ability to create or initiate a ticket retrieval request.',F
+'The Disputes System must allow the user to create three unique types of ticket retrieval requests.',F
+'The Disputes System must prevent external users from requesting original receipts.',F
+'The Disputes System must provide a confirmation to the user upon the creation of ticket retrieval request.',F
+'The Disputes System shall allow the user to create or initiate a chargeback request.',F
+'The Disputes System must provide a confirmation to the user upon the creation of a chargeback request.',F
+'The Disputes System shall prevent the creation of duplicate dispute requests 100% of the time.',F
+'The Disputes System shall accurately provide a list of possible reason codes for a given transaction.',F
+'The Disputes System must provide the ability to view existing dispute cases.',F
+'The Disputes System must provide Search functionality.',F
+'A list of all disputes cases that meet the entered search criteria must be provided to the user.',F
+'The Disputes System shall provide the users the ability to view the history of all activities that have occurred on the dispute case.',F
+'The Dispute System shall provide the users with the ability to follow up on a dispute case via follow-up actions.',F
+'The Disputes System shall record the name of the user and the date for any activity that creates or modifies the disputes case in the system.',F
+'For any systematic action that occurs on a case such as the disputes aging process a case activity will be generated.',F
+'All letter requests must be formatted according to guidelines specified by the Print Letter Utility system.',F
+'Any disputes cases that have been closed for over 6 months must be purged from the online disputes database.',F
+'The user shall search for the preferred repair facility using vehicle vehicle location and radius in miles',F
+'The vehicle data shall include vehicle year make and model',F
+'The vehicle location shall include street address city state and zipcode',F
+'The system shall resolve the zipcode for the street address city and state if zipcode is unknown.',F
+'The search radius shall be between 1 and 30 miles',F
+'The system shall locate the preferred repair facility with the highest ratings for the input criteria',F
+'The adjuster shall enter the preferred repair facility on the estimate assignment.',F
+'The adjuster shall be able to override the preferred repair facitlity on the estimate assignment.',F
+'The preferred repair facility shall be returned to the user.',F
+'The system shall return a list of repair facilities within the radius if the preferred repair facility cannot be determined.',F
+'The estimator shall search for available recycled parts using damaged vehicle parts information.',F
+'The estimator shall search for available recycled parts using a list of preferred parts suppliers.',F
+'The system shall search for available recycled parts for the supplied vehicle parts and suppliers.',F
+'The estimator shall search by zipcode with a radius of 30 miles if no parts are found for the preferred parts suppliers',F
+'The system shall retain the available recycled parts and suppliers returned from the search.',F
+'The available recycled parts information and their suppliers shall be returned to the user.',F
+'The estimator shall apply selected recycled parts to the collision estimate.',F
+'The estimator shall not apply recycled parts to the collision estimate if no available parts are returned.',F
+'The adjuster shall review the collision estimate.',F
+'The adjuster shall request a recycled parts audit of the collision estimate.',F
+'The recycled parts search results provided to the estimator shall be retrieved by the system.',F
+'The system shall generate an audit report based on the available recycled parts and the collision estimate.',F
+'The audit report shall include the total number of recycled parts used in the estimate.',F
+'The audit report shall include the number of available recycled parts from the original search results.',F
+'The audit report shall include the percentage of available recycled parts used in the estimate ',F
+'The audit report shall include the total score of the audit which sums the indivual line items.',F
+'The audit report shall be displayed to the user.',F
+'The audit report shall be available to other adjusters at later points in time.',F
+'The user shall select to view the preferred repair facility ratings.',F
+'The current repair facility ratings shall be displayed to the user.',F
+'The system will display a blank set of ratings if there are not ratings yet defined.',F
+'The user shall enter new ratings based on the audit report',F
+'The ratings shall be from a scale of 1-10',F
+'The ratings shall include categories for attempted use of recycled parts and actual use of recycled parts',F
+'The user shall select to save the preferred repair facility ratings.',F
+'The preferred repair facility ratings shall be saved by the system.',F
+'The product shall record meeting entries.',F
+'The product will notify employees of meeting invitations.',F
+'The product shall have the ability to send meeting reminders to employees.',F
+'The product shall assign the organizers contact information to each meeting they create.',F
+'The product will record meeting acknowledgements.',F
+'The product shall store new conference rooms.',F
+'The product shall update existing conference rooms.',F
+'The product will be able to delete conference rooms.',F
+'The product shall be able to store new room equipment.',F
+'The product will update existing room equipment.',F
+'The product shall be able to delete room equipment.',F
+'The product shall allow an organizer to invite other employees to meetings.',F
+'Each time a conference room is reserved the conference room schedule shall be updated to reflect the time and date of the reservation.',F
+'The product shall record the transportation status of equipment reserved.',F
+'The product shall display a map of the company building showing conference room locations.',F
+'The product shall record updated meeting agendas.',F
+'The product shall send a meeting confirmation to the meeting organizer.',F
+'The product shall display room equipment according to search parameters.',F
+'The product shall display conference rooms according to search parameters.',F
+'The product shall record different meeting types.',F
+'The product shall record all the equipment that has been reserved.',F
+'The product shall notify building personnel of equipment transport requests.',F
+'The product will allow priviledged users to view meeting schedules in multiple reporting views.',F
+'The product shall be able to send meeting notifications via different kinds of end-user specified methods.',F
+'The product shall have a customizable Look and Feel.',F
+'The product shall have an intuitive user interface.',F
+'The product will display an available status for unreserved conference rooms.',F
+'The website will allow customers to search for movies by title actor or director.',F
+'The website will display the movies description actor and director entered in by the administrator.',F
+'The website shall request and authorize credit card payment before allowing a user to stream a movie.',F
+'Users shall be able to stream purchased movie via Windows Media Player for up to 2 days after purchase date.',F
+'Website shall allow customers to view reviews of selected movies by other customers.',F
+'Website shall allow customers to add their own movie review for a selected movie.',F
+'System will allow customers to pay for a streaming movie with a pre-paid card.',F
+'Website shall allow customers to purchase pre-paid cards.',F
+'System shall automatically update the main page of the website every Friday.',F
+'System shall allow users to update their billing and their contact information.',F
+'Pre-paid cards shall be distributed via email or via a printed paper card.',F
+'Only registered customers can purchase streaming movies.',F
+'Movies can only be streamed if the customer has purchased a movie.',F
+'Website must be able to support free trial periods with various parameters set by the Izogn Manager.',F
+'All streaming movie sales will be logged in the database and accessible by the administrator.',F
+'All registered customer information shall be stored and maintained in the database even after the customer cancels their account.',F
+'Daily usage statistics should be logged and accessible by the administrator.',F
+'The owner shall have free access to all of the streaming movies.',F
+'The product shall maintain a list of players.',F
+'The product shall allow a user to identify himself or herself as a player.',F
+'Once a game has been initiated the product shall make the players assigned to the game unavailable for selection from the list of players.',F
+'The product shall allow a user to remove himself or herself from the list of players at any time.',F
+'The product shall make inactive players unavailable for selection from the list of players.',F
+'The product shall remove players who have been inactive for 24 hours from the list of players.',F
+'The product shall allow a player to initiate a game by selecting another available player from the list of players.',F
+'Once a game is initiated the product shall display a defensive grid to each player',F
+'Once a game is initiated the product shall display an offensive grid to each player.',F
+'The product shall prevent a player from viewing the offensive or defensive grids of the other player.',F
+'Once a game is initiated the product shall allow each player to position their 5 ships on their respective defensive grids.',F
+'The product shall allow a player to position ships horizontally on their grid.',F
+'The product shall allow the player to position ships vertically on their grid.',F
+'The product shall allow the player to position ships diagonally on their grid',F
+'The product shall prevent the player from overlapping ships on their grid.',F
+'When both players have positioned their ships the product shall define the status of each player.',F
+'For each turn the product shall identify one player as offensive status and one player as defensive status.',F
+'The product shall maintain the status of each player for a turn either offensive or defensive.',F
+'At the start of each turn the product shall notify each player of his or her status.',F
+'For each turn the product shall allow the offensive player to define a shot.',F
+'For each shot the product shall examine the defensive grid of the defensive player to determine whether the shot was a hit or miss.',F
+'For each shot the product shall notify the players whether the shot was a hit or miss.',F
+'For each shot the product shall mark the shot as a hit or miss on the defensive grid of the defensive player.',F
+'For each shot the product shall mark the shot as a hit or miss on the offensive grid of the offensive player.',F
+'When the hit results in sinking a ship the product shall notify the players that the ship was sunk.',F
+'When the hit results in sinking a ship the product shall mark the ship as sunk on the defensive grid of the defensive player.',F
+'When the hit results in sinking a ship the product shall indicate the type of ship sunk on the defensive grid of the defensive player.',F
+'When the hit results in sinking a ship the product shall mark the ship as sunk on the offensive grid of the offensive player.',F
+'If the shot was marked as a hit the product shall allow the offensive player to define a shot.',F
+'If the shot was marked as a miss the product shall change the status of the offensive player to defensive',F
+'If the shot was marked as a miss the product shall change the status of the defensive player to offensive',F
+'The product shall continue to assign turns until the game is ended.',F
+'The product shall end a game when a hit by the offensive player results in sinking the last of the defensive player’s ships.',F
+'The product shall allow a player to end a game at any time during the game.',F
+'When a game is ended the product shall notify the players that the game is ended.',F
+'The notification of the game ending will include the reason the game is ended.',F
+'When a game is ended the product shall allow each player to identify himself or herself as an available player in the list of players.',F
+'When a game is ended the product shall allow each player to remove himself or herself from the list of players.',F
+'The product shall be available for distribution via the Internet as a binary or ZIP file.',NF
+'The product is expected to run on Windows CE and on Palm operating systems.',NF
+'The product shall use symbols and words that are naturally understandable by the realtor community.',NF
+'Reports must be generated within one button click and exported within one button click after selection',NF
+'The system shall interface with CampusConnect’s central server',NF
+'The product must be developed with the J2SE/J2EE programming language libraries',NF
+'100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case.',NF
+'The system shall perform with 1500 users as a time.',NF
+'The product shall display the grids within a circle as a view from a periscope.',NF
+'Product installations and upgrades shall be handled by the middleware technology team.',NF
+'The PHP code will comply with PEAR standards.',NF
+'All of the users shall be able to use the system after one day of training.',NF
+'Movies shall be encoded for 56k and 256k streams.',NF
+'The system shall be used within the specifications defined by the computers used by the Administrators.',NF
+'The product must work with most database management systems on the market whether the DBMS.',NF
+'System shall let administrators generate unique pre-paid pins in under 2 minutes.',NF
+'The website should use Flash to provide animation on the home page.',NF
+'The website shall be capable of supporting 100000 customers.',NF
+'The WCS system shall have the ability to connect other designated WCS databases currently not included in the system.',NF
+'The product must support Mozilla Firefox 1.0 and above.',NF
+'The user interface shall have standard menus buttons for navigation',NF
+'System shall let customers register on the website as a temporary user in under 5 minutes.',NF
+'All screens created as part of the Disputes application must comply with corporate standards for interface creation.',NF
+'On a 112k connection or faster the system response time for all operations must be no more than 3 seconds 90% of the time.',NF
+'Each page shall contain a similar format with action items in one location and navigation buttons in a different location.',NF
+'System shall let existing customers log into the website with their email address and password in under 5 seconds.',NF
+'All movies shall be streamed on demand at any time of the day.',NF
+'The maintenance releases shall take no longer than 5 minutes for 80% of the customer base to install.',NF
+'The product shall allow for customization of start page and views preferences.',NF
+'The product must comply with the intranet page standards and requirements of ENET Securities.',NF
+'The product shall allow the user to view previously downloaded search results.',NF
+'95% of Adjusters and Collision Estimators shall find the product easy to use.',NF
+'The system shall be intuitive to the Program Administrators and Nursing Staff Members.',NF
+'With a week of training prior to product implementation 98% of the users shall complete their budgets within the stipulated time.',NF
+'The response shall be fast enough to avoid interrupting the user’s flow of thought.',NF
+'The preferred repair facility is returned within 8 seconds',NF
+'Only authorized users shall have access to students’ personal information.',NF
+'The product shall be available for use 24 hours per day 365 days per year',NF
+'The product shall provide asynchronous messaging to enable parallel processing and reduce the overhead in communications',NF
+'The product shall be able to be installed in any operating environment within 2 days.',NF
+'Only authorized personnel can access customer records in the database.',NF
+'The application shall run on a web application server.',NF
+'The number of user is expected to grow 5 times within the next year.',NF
+'In the interface and usability survey 90% of beta testers must report that the interface is adequately simple.',NF
+'80% of the Collision Estimators shall agree their productivity has increase within 1 month of using the product.',NF
+'A primary database will be used to store cached data for active users.',NF
+'If a user account is revoked it can only be re-instantiated by the System Administrator.',NF
+'The system shall operate within the Windows XP Professional operating system.',NF
+'The product shall ensure that it can only be accessed by authorized users.',NF
+'The verbiage used within the system shall be consistent with Standard English and the terminology of the national Nursing Community.',NF
+'Promotional updates to the website should take a day to update.',NF
+'The product shall be expected to operate for at least 5 years for each customer installation.',NF
+'The response time shall be fast enough to maintain the flow of the game.',NF
+'The website will use standard Internet conventions when interacting with the user.',NF
+'Only managers are able to perform search queries for reservations by user.',NF
+'The Commissioner will be the only authorized user per league to adjust league settings.',NF
+'All updates to data files or database must be initiated from the Disputes System.',NF
+'The product shall be available during normal business hours.',NF
+'On a 56k connection the system response time for all operations must be no more than 6 seconds 90% of the time.',NF
+'The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.',NF
+'Each page shall contain a navigation menu which shows the index into which the current page is contained.',NF
+'The website should appeal to all Africans not only Nigerians.',NF
+'The Disputes application shall support 350 concurrent users without any degradation of performance in the application.',NF
+'Staff members shall be able to complete a set of tasks in a timely manner.',NF
+'When a ship is sunk the product shall simulate the sound of a sinking ship.',NF
+'The list of dispute cases that are displayed after a search is performed must be color coded.',NF
+'The streaming server will support a maximum of 700 movies.',NF
+'The maintenance of the product will fall within the established corporate maintenance windows.',NF
+'The product shall help System Administrators to analyze the transactions with ad-hoc reporting and KPIs',NF
+'The Disputes application shall interface with the Letters application.',NF
+'The Disputes application must conform to the legal requirements as specified by the Merchant Operating Regulations.',NF
+'The application shall ask the user to confirm dropping a player or trading a player before performing the action.',NF
+'The product shall be available 99.99% of the time for regular business days.',NF
+'The product shall be easy for customers with novice skills on the Internet to purchase and watch streaming movies.',NF
+'The messages in the main board will contain up to the first 150 characters of the message.',NF
+'Only authorized user shall access the RFS system.',NF
+'100% of cardmember services representatives shall be able to successfully create a dispute case.',NF
+'The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.',NF
+'2% of the time the system will become available within 1 hour of the time that the situation is reported.',NF
+'The product shall produce search results in an acceptable time',NF
+'Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling.',NF
+'The product shall display each type of ship in a grid using an image of the specific type of ship.',NF
+'The product shall respond fast to keep up-to-date data in the display.',NF
+'The search for recycled parts shall take no longer than 15 seconds.',NF
+'The preferred repair facility ratings shall be saved within 5 seconds.',NF
+'100% of all selection and navigation functionality must be able to be activated/selected by either a mouse or a keyboard',NF
+'The system shall use IBM branding standards.',NF
+'The product will have a new major feature introduced every six months and quarterly maintenance releases every six months.',NF
+'Users shall be able to reach the player pages with one click from the team owner’s page.',NF
+'85% of all users will be satisfied with the product.',NF
+'The product shall be easy for System Administrators and DBAs to use after two weeks of usage.',NF
+'We must be able to interface with any HTML browser.',NF
+'System shall let customers cancel their account process shall take no longer than 2 minutes.',NF
+'The product shall support Transparent Resource addition to provide scalability and avoid service interruptions of more than 1 day.',NF
+'The product shall free of computer viruses.',NF
+'The website shall continue to operate if the payment gateway goes down.',NF
+'The product must make use of web/application server technology.',NF
+'The search results shall be returned no later 30 seconds after the user has entered the search criteria',NF
+'The product shall allow the user to select a chosen language from one of the target market countries.',NF
+'The product shall operate in offline mode whenever internet connection is unavailable.',NF
+'System shall let administrator de-activate a customer account in under 1 minute.',NF
+'The system shall be displayable on any work computer a CCR user may have.',NF
+'The RFS system should be able to easily interface with the BDW environment in order to load the data.',NF
+'The product shall use symbols and words that are naturally understandable by users familiar with websites',NF
+'The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.',NF
+'The product shall be able to process 10000 transactions per hour within two years of its launch.',NF
+'The same hardware supporting the current website will be used to support the new system.',NF
+'User access should be limited to the permissions granted to their role.',NF
+'The product shall ensure that only supervisors can view schedule of all callers.',NF
+'The product shall prevent the input of malicious data.',NF
+'The product shall simulate the look of ships at sea.',NF
+'The website shall continue to operate if the streaming server goes down.',NF
+'Callers and supervisors shall learn how to use the system within 10 minutes.',NF
+'The CMA report shall be returned no later 60 seconds after the user has entered the CMA report criteria.',NF
+'One training session will be held for 100% of CCR users before system deployment',NF
+'The Disputes application shall interface with the Statement Database.',NF
+'Movies shall be encoded and streamed via Windows Media Player 9.0.',NF
+'The product shall generate a CMA report in an acceptable time.',NF
+'Nine out ten users shall be able to successfully complete a game with no training.',NF
+'The product shall adhere to the corporate Architecture guidelines',NF
+'The product shall be internet browser independent.',NF
+'The product shall not fail more than 2% of the available online time.',NF
+'The product shall be installed by an untrained realtor without recourse to separately-printed instructions.',NF
+'The product shall prevent its data from incorrect data being introduced.',NF
+'The product shall create an exception log of problems encountered within the product.',NF
+'90% of survey respondents from each target market country will find that the language of the product is acceptable.',NF
+'90% of new users are able to log into the system within 10 minutes.',NF
+'Washing parameters will be updated during scheduled maintenance hours.',NF
+'The product shall conform to the Americans with Disabilities Act.',NF
+'The product shall poll the system for new messages at a maximum of every 1 second.',NF
+'The product is expected to integrate with multiple database management systems.',NF
+'The system shall interface with the student master server.',NF
+'The product shall be learned with two days onsite training',NF
+'90% of users will be able to successfully reserve a conference room within 5 minutes of product use.',NF
+'90% of new users shall be able to start the display of events or activities within 90 minutes of using the product.',NF
+'The lead washing process will operate within the established physical web service structure.',NF
+'The website shall protect itself from intentional abuse and notify the administrator at all occurrences.',NF
+'The system shall have a professional appearance',NF
+'80% of end users are able to integrate new database management systems with the product without changing the product’s software code.',NF
+'The product shall run on the existing hardware for all environments.',NF
+'The Disputes applications shall interface with the Merchant Information Database.',NF
+'The system must be available for use between 12:00AM and 6:00PM all days of the year.',NF
+'The system shall notify customers of changes to its information policy.',NF
+'The product shall be able to display calendar dates and times according to the user’s locale.',NF
+'The System shall be able to automatically backup business data and restore them on demand.',NF
+'Data integrity scripts will be run on a weekly basis to verify the integrity of the database.',NF
+'System shall let administrator add/remove movies on the website in under 5 minutes.',NF
+'Users will not have direct access to data files or databases.',NF
+'The system shall be built such that it is as secure as possible from malicious interference.',NF
+'All interfaces and reports will undergo usability tests by CCR users.',NF
+'The Disputes application must conform to the legal requirements as specified by Regulation E and Regulation Z that govern credit card disputes processing.',NF
+'The product shall have a conservative and professional appearance.',NF
+'The response time shall be no more than 2 seconds for 95% of responses and no more than 4% for the remaining responses.',NF
+'All business rules specified in the Disputes System shall be in compliance to the guidelines of Regulation E and Regulation Z.',NF
+'System shall let the administrator add/remove categories on the website in under 5 minutes.',NF
+'The system shall protect private information in accordance with the organization’s information policy.',NF
+'Out of 1000 accesses to the system the system is available 999 times.',NF
+'The software product is expected to run on Windows platform or on Linux platform.',NF
+'80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.',NF
+'For estimators the product shall be able to be operated in a repair facility during dirty and noisy conditions.',NF
+'The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.',NF
+'The system must use the same nomenclature used in the existing WCS system and reports',NF
+'The server will support a maximum of 1000 simultaneous users.',NF
+'The product shall ensure that only supervisors can advertise empty time slots.',NF
+'Website must interface with the CyberSource API to process credit card transactions.',NF
+'The product shall be supported using the corporate support center.',NF
+'80% of the users surveyed report that the product accurately confirms their actions.',NF
+'The product should be able to be used by 90% of novice users on the Internet.',NF
+'The Disputes application shall ensure that only authorized users are allowed to logon to the application.',NF
+'The product shall have fault avoidance based on standards adoption.',NF
+'The product shall store messages for a minimum of one year for audit purposes.',NF
+'The product shall have fault tolerance by using recovery technique compensatory transaction and routing around failures.',NF
+'The WCS system shall be run in a Windows environment.',NF
+'The product shall able to handle a large number of games simultaneously.',NF
+'The product shall ensure that the database’s data corresponds to the data entered by the user.',NF
+'The application shall have a downtime of at most 10 minutes per year.',NF
+'The System shall allow for a minimum of 6 users to work at the same time.',NF
+'The system shall meet the licensing requirements set forth by the appropriate organizations in order to stream African movies.',NF
+'Users without the collision estimator role shall not have access to the search for recycled parts.',NF
+'The system shall be easy to use by the Program Administrators and Nursing Staff Members.',NF
+'The product shall have a consistent color scheme and fonts.',NF
+'The product shall be able to be installed in the specified environment within 1 working day.',NF
+'System shall let customers register on the website as a unlimited user in under 10 minutes.',NF
+'User help can be found within 90% of the system.',NF
+'The product shall have the ability to receive automatic software updates as new threats emerge.',NF
+'The product shall ensure that only supervisors can enter a caller’s schedule.',NF
+'The product shall be expected to operate within the maximum maintenance budget for a minimum of 2 years.',NF
+'The application is brought down only within 98% of the scheduled outages per the availability schedule.',NF
+'Each team owner will need to use a username and password in order to be authenticated to reach the team owner’s page',NF
+'Application updates shall occur between 3AM and 6 AM CST on Wednesday morning during the middle of the NFL season.',NF
+'The process must fit within the processing time conditions set forth by the Auto Rep Assignment process.',NF
+'The WCS system shall have the ability to include data for regions outside the United States.',NF
+'The product shall be available for distribution as a packaged CD.',NF
+'The website shall not be offensive to religious or ethnic groups.',NF
+'The system shall reveal private information only in compliance with the organization’s information policy.',NF
+'Aside from server failure the software product shall achieve 99.99% up time.',NF
+'All credit card information will be encrypted in the database.',NF
+'On a 10x10 projection screen 90% of viewers must be able to read events and activity data from a viewing distance of 30',NF
+'The recycled parts audit report shall be returned to the user within 10 seconds.',NF
+'The website design should be modern clean and concise.',NF
+'Only authorized personnel can access sales information.',NF
+'All customer information will be stored on a secure database accessible only to authorized personnel.',NF
+'The average number of recycled parts records per day shall be 50000.',NF
+'The product shall be available to players who understand English Spanish and French.',NF
+'The product shall retain the customer’s buying preferences and information.',NF
+'The product shall accommodate any new technology without any change in its architecture.',NF
+'Only adjusters can request recycled parts audit reports.',NF
+'100% of the cardmember services representatives shall use the Disputes application regularly after a 2-day training course.',NF
+'In the interface and usability survey 80% of beta testers must report that the interface is appealing.',NF
+'The product shall be able to support 1000 simultaneous users.',NF
+'The Disputes application shall interface with the Cardmember Posting and Billing System.',NF
+'The product shall provide multi-threading technology as well as load balancing to overcome data load spikes and traffic.',NF
+'The appearance of the product shall appear professional',NF
+'The product shall comply with City of Chicago Application Development Guide Framework.',NF
+'The system will provide a 24 hour 800 toll free number for support to its customers.',NF
+'The system shall prevent malicious attacks including denial of service.',NF
+'The System shall utilize currently owned computer equipment.',NF
+'A new user shall be able to navigate through the league page within 30 seconds of reaching the start-up page.',NF
+'The system shall use symbols and words that are naturally understandable by the user community.',NF
+'Cookies containing login information about a user will not be stored on a user’s computer.',NF
+'Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.',NF
+'The product shall help the System Administrators and DBAs to resolve transaction errors 99% of the time.',NF
+'Only users with Update access must be able to initiate dispute requests.',NF
+'Any changes in user passwords and/or permissions should take affect in all parts of the System.',NF
+'The system shall use the organization’s standard virus protection software to help monitor threats to itself.',NF
+'The product shall be used in office environments.',NF
+'The system shall be used by realtors with no training.',NF
+'Every user of the system shall be authenticated and authorized.',NF
+'The product shall be able to support multiple remote users',NF
+'The customer shall be able to easily integrate new building maps with the product throughout the product’s lifecycle.',NF
+'The product’s Look and Feel shall be able to incorporate aspects of the customer’s organization such as logo branding and identity',NF
+'Only registered customers can purchase streaming movies.',NF
+'The product shall use a standard navigation menu familiar to most web users.',NF
+'We must be able to interface with Internet Explorer 5.X and with Firefox 1.0 browsers',NF
+'The streaming server will support 50 simultaneous streaming connections.',NF
+'One insurance company shall not be able to view another insurance companys claim data.',NF
+'A customer can only stream a movie if they purchased it and are within the 2 day viewing period.',NF
+'The system shall cater to 10 simultaneous users from 9am to 5pm.',NF
+'When a shot is marked as a hit the product shall simulate the sound of a shot hitting its target.',NF
+'All business rules specified in the Disputes System shall be in compliance with the Merchant Operating Regulations.',NF
+'Users shall be able to view at least 25 NFL player statistics and points on each page.',NF
+'The product and dependent databases shall not crash 100% of the time that malicious data is input into the product.',NF
+'Users should only have to navigate through a maximum of 4 pages to create an account with the website.',NF
+'The product shall interface with the ChoiceParts system once per day at approximately 1:00 AM.',NF
+'The number of mistakes noted by the students shall be decreased by 50% in the first year.',NF
+'All additions of new users and modifications to user’s access shall be recorded on the User Report.',NF
+'Callers and supervisors must be able to accomplish any system task within 2 minutes.',NF
+'An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.',NF
+'The product shall comply with insurance regulations regarding claims processing.',NF
+'The product shall retain user preferences in the event of a failure.',NF
+'Changes to revenue must be applied to the RFS system every year.',NF
+'A database management system such as Oracle DB2 or MySql will need to be integrated with the product.',NF
+'The website shall make its user aware of its information practices before collection data from them via a Privacy Policy.',NF
+'The product shall have a maximum message processing time of 2 seconds',NF
+'90% of viewers must be able to determine that events or activities are occuring in current time from a viewing distance of 100.',NF
