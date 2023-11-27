@@ -1,0 +1,265 @@
+RequirementText,Class
+system interacts database,O
+product integrate various technology,O
+merchant database provides merchant information,O
+system operates office environment,O
+website support java,O
+movie encoded connection,O
+system periodic message,O
+product protocol process message real time,O
+lead process operates within established architecture,O
+product used office environment,O
+application update part changed,O
+network connectivity fast operation data load,O
+product operates noisy environment,O
+application interacts billing system,O
+secondary database used store statistic data,O
+product distributed,O
+user information recorded user database,O
+system interacts master server,O
+product available license,O
+hardware handled technology team,O
+product successfully interacts database management system,O
+system doesnt require third party license,O
+system automatically backup data,O
+product run existing hardware,O
+data entry form application match microsoft excel copy,O
+system installed window,O
+product interacts various server,O
+application isnt available scheduled maintenance window,O
+system invoked typing start,O
+website interacts server process credit card transaction,O
+system integrates service,O
+website flash library animation home page,O
+product run web server,O
+product interacts system daily,O
+meeting scheduler accessed web,O
+database management system separate machine,O
+hardware used install new system,O
+product support internet explorer browser,O
+system able update file,O
+system interacts primary server,O
+product adheres company architecture guideline,O
+system installed currently hardware computer,O
+application interacts master database,O
+system interacts environment,O
+application interacts browser,O
+product installed operating environment,O
+system store location product sent,O
+application run web application server,O
+movie available browser,O
+system compatible microsoft window,O
+product interacts part system,O
+product integrates database management system,O
+part website accessed via web browser,O
+product web application server technology,O
+product installed specified environment day,O
+product work system database installed,O
+system interacts firefox browser,O
+application change update information server,O
+primary database used store cached data,O
+application interacts application,O
+product distributed via internet,O
+system able provide information database catalog,O
+user computer minimum hardware requirement,O
+system mail protocol,O
+market system interacts web server using api,O
+product developed java library,O
+system update display every second,PE
+product responds quickly,PE
+product return search result acceptable time,PE
+search result returned second,PE
+product generates report acceptable time,PE
+report returned second,PE
+product synchronizes contact acceptable time,PE
+product synchronizes system every hour,PE
+system must allow user complete task acceptable time,PE
+response time task second,PE
+navigation screen take second,PE
+application support concurrent user without performance degradation,PE
+search result returned second,PE
+search repair take second,PE
+audit report returned second,PE
+repair done second,PE
+system response must fast,PE
+create inventory take minute,PE
+system allows user work simultaneously,PE
+second administrator activate prepaid card,PE
+second customer check status prepaid card,PE
+system allows customer registration minute,PE
+system allows user enter website minute,PE
+second customer login website,PE
+system allows customer cancel account minute,PE
+minute administrator able revoke account,PE
+administrator able add movie minute,PE
+system allows administrator cancel movie minute,PE
+system allows manager access statistic minute,PE
+administrator generates unique pin minute,PE
+interface user system second response time,PE
+purchasing streaming movie response time second,PE
+stream buffering time take second,PE
+stream buffering occur latency user connection,PE
+update right take minute,PE
+add new product website take minute,PE
+lead time completed minute,PE
+lead report take second lead,PE
+data recorded lead take second,PE
+process fit within processing time constraint,PE
+product support game simultaneously,PE
+response time fast ensure flow game,PE
+response time second,PE
+system fast responsive,PE
+connection system response time second,PE
+connection system response time second,PE
+product provides asynchronous messaging avoid communication overhead,PE
+product provides load balancing avoid traffic,PE
+product process message second,PE
+product asks system new message every second,PE
+product provides scalability ensure service availability,PE
+application able complete user transaction second,PE
+response time second,PE
+second web page must downloadable connection,PE
+response search take second load,PE
+system display message user second,PE
+response view information appear screen second,PE
+high speed network connectivity required,PE
+system must short response time,PE
+second overhead time database transaction time,PE
+product initial load time depends internet connection speed,PE
+performance depends client hardware component,PE
+page application take second load,PE
+system slow heavy load ensure service availability,PE
+concurrent user supported without performance degradation,PE
+secondary server must available case heavy load,PE
+user must login according restricted access policy,SE
+user update access update dispute,SE
+correct combination username password required,SE
+authorized user able enter system,SE
+user cant login tablet simultaneously,SE
+identity theft security issue must solved,SE
+user access limited right permission,SE
+authorized user access system,SE
+web browser mustnt display customer password,SE
+system server mustnt display customer password,SE
+access right assigned user,SE
+system password per user login,SE
+username password used authentication,SE
+system must prevent malicious attack,SE
+system mustnt leave cooky confidential data,SE
+address transaction done recorded,SE
+player havent permission access player data,SE
+product provides authentication authorization,SE
+login done securely,SE
+revoked user account reset administrator,SE
+authorized user login,SE
+secure server required ensure confidentiality customer credit card data,SE
+confidential data encrypted sent insecure connection,SE
+supervisor access advertise empty time slot,SE
+system usage mustnt harm human user,SE
+web browser mustnt display customer credit card number database,SE
+account securely store data,SE
+susan access class scheduling,SE
+system generates user report,SE
+registered customer purchase streaming movie,SE
+display requires user login,SE
+website protected security abuse,SE
+system automatically log customer period inactivity,SE
+product mustnt provide player information another player,SE
+unique login password encoded database using sha2 algorithm,SE
+network transaction confidential information must encrypted,SE
+system must use secured database,SE
+product store message security audit purpose,SE
+user login tablet security reason,SE
+surface computer requires user login,SE
+system different access constraint user,SE
+credit card information encrypted database,SE
+adjuster request recycled part audit report,SE
+system show private information according policy,SE
+system protected database,SE
+product mustnt virus,SE
+user action recorded user report,SE
+system notifies customer change information policy,SE
+secure data transfer internet provided using ssl encryption,SE
+administrator view schedule,SE
+supervisor advertise empty time slot,SE
+administrator access confidential site information,SE
+user permission defined outside scope system,SE
+system automatically log customer period inactivity,SE
+registered realtor access system,SE
+server accessible authenticated administrator,SE
+administrator reset revoked user account,SE
+authorized user use system location,SE
+system mustnt leave cooky customer computer containing password,SE
+approved user access,SE
+system protected malicious interference,SE
+product receives automatic software update new virus,SE
+user required login operation,SE
+administrator activate prepaid card,SE
+system ssl transaction confidential information,SE
+application must log user exited,SE
+system easy administrator use,US
+user able successfully complete task,US
+number user mistake decrease first month,US
+system intuitive administrator,US
+user able complete game without training,US
+administrator successfully system,US
+system symbol defined company,US
+system support user task,US
+user access support page,US
+search available room intuitive,US
+product help customer buying preference,US
+take second account registration,US
+menu system easy navigate using button,US
+help page contain support answer issue,US
+product easy realtor learn,US
+realtor use system without training,US
+untrained realtor install product without separate instruction,US
+system allows user view campus map map page,US
+novice customer easily purchase streaming movie,US
+adjuster find product easy use,US
+website interacts user using standard convention,US
+functionality navigation done mouse,US
+user access streaming movie click login,US
+interface system user friendly intuitive,US
+user able use application without instruction,US
+interface adheres usability standard,US
+second user able navigate home page,US
+product provides user colored feedback,US
+untrained user use product without instruction,US
+survey show customer comfortable purchasing streaming,US
+user survey report regular product usage,US
+product easy administrator use day usage,US
+system easy use,US
+system help user avoid making mistake,US
+product use word easy understand,US
+take second user buy movie,US
+user able reach player management page click home page,US
+system provides use symbol button,US
+system provides digital image product catalog,US
+product must conform disability act,US
+user able select language,US
+product customization home page,US
+product increase productivity adjuster,US
+user learn product day,US
+user able successfully reserve room minute,US
+system intuitive display data,US
+projected data readable,US
+product available player understand english,US
+dispute colored easy status identification,US
+product display time according user local time,US
+product usable novice user,US
+product standard navigation menu,US
+user navigate page create account,US
+caller supervisor able complete task minute,US
+symbol word easy understand,US
+system provides accessiibility according disability act,US
+user able view player information home page,US
+training session scheduled user,US
+application asks user confirmation action done,US
+user easily find instruction product usage,US
+website site map quickly access system,US
+add new user system take minute,US
+user able complete task defined time,US
+user able use system without instruction,US
+user successfully create dispute first training,US
+product intuitive easy,US

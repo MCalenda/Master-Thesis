@@ -1,0 +1,265 @@
+RequirementText,Class
+system interacts with databases,O
+product integrate with various technology,O
+merchant database provides merchant information,O
+system operates in office environment,O
+website supports java,O
+movies are encoded for connections 256,O
+system uses periodic messages,O
+product uses protocols to process messages in real time,O
+lead process operates within established architecture,O
+product is used in office environment,O
+application only updates parts that have changed,O
+network connectivity should be fast for operations and data load,O
+product operates in noisy environment,O
+application interacts with billing system,O
+secondary database is used to store statistics and data,O
+product is distributed as cd,O
+users information are recorded in users database,O
+system interacts with master server,O
+product is available for license,O
+hardware are handled by technology team,O
+product successfully interacts with database management system,O
+system doesnt require third party license,O
+system automatically backups data,O
+product runs on existing hardware,O
+data entry forms for application match their microsoft excel copy,O
+system is installed on windows,O
+product interacts with various servers,O
+application isnt available during scheduled maintenance windows,O
+system can be invoked by typing start,O
+website interacts with server to process credit card transactions,O
+system integrates with other services,O
+website uses flash libraries for animation on home page,O
+product runs from web server,O
+product interacts with other systems daily,O
+meeting scheduler is accessed from web,O
+database management system is on separate machine,O
+same hardware will be used when install new system,O
+product supports internet explorer browser,O
+system is able to update files,O
+system interacts with primary server,O
+product adheres to company architecture guidelines,O
+system is installed on currently hardware computer,O
+application interacts with master database,O
+system interacts with environment,O
+application interacts with browser,O
+product can be installed in any operating environment,O
+system stores location where product will be sent,O
+application runs on web application server,O
+movies are available from browser,O
+system is compatible with microsoft windows,O
+product interacts with parts system,O
+product integrates with database management system,O
+all parts of website are accessed via web browser,O
+product uses web application server technology,O
+product is installed in specified environment in 1 day,O
+product works on systems with database installed,O
+system interacts with firefox browser,O
+application can change and update information on server,O
+primary database is used to store cached data,O
+application interacts with other application,O
+product is distributed via internet,O
+system is able to provide information from database to catalog,O
+user computers have minimum hardware requirements,O
+system uses mail protocols,O
+market system interacts with web server using api,O
+product is developed with java libraries,O
+system updates display every 60 seconds,PE
+product responds quickly,PE
+product returns search results in acceptable time,PE
+search results are returned in 30 seconds,PE
+product generates reports in acceptable time,PE
+reports are returned in 60 seconds,PE
+product synchronizes contacts in acceptable time,PE
+product synchronizes with system every hour,PE
+system must allow users to complete tasks in acceptable time,PE
+response time for tasks is 5 seconds,PE
+navigation between screens takes 5 seconds,PE
+application support 350 concurrent users without performance degradation,PE
+search results are returned in 15 seconds,PE
+search for repairs takes 8 seconds,PE
+audit reports are returned in 10 seconds,PE
+repairs are done in 5 seconds,PE
+system responses must be fast,PE
+create inventory takes 30 minutes,PE
+system allows 6 users to work simultaneously,PE
+in 5 seconds administrators can activate prepaid card,PE
+in 5 seconds customers can check status of prepaid card,PE
+system allows customers registration in 5 minutes,PE
+system allows user enter website in 1 minute,PE
+in 5 seconds customers can login website,PE
+system allows customers to cancel their accounts in 2 minutes,PE
+in 1 minute administrators are able to revoke account,PE
+administrators are able to add movies in 5 minutes,PE
+system allows administrator to cancel movies in 5 minutes,PE
+system allows manager to access statistics in 2 minutes,PE
+administrators generates unique pin in 2 minutes,PE
+interface between user and system has 5 seconds of response time,PE
+purchasing streaming movies have response time of 15 seconds,PE
+stream buffering time take 10 seconds,PE
+stream buffering occur when there is latency in user connection,PE
+update rights takes 2 minutes,PE
+add new products to website takes 2 minutes,PE
+lead time is completed in 5 minutes,PE
+lead reports take 25 seconds for all leads,PE
+data are recorded when leads take 25 seconds,PE
+process fit within processing time constraints,PE
+product supports 1000 games simultaneously,PE
+response time is fast to ensure flow of game,PE
+response time is 2 seconds,PE
+system is fast and responsive,PE
+on 256 connection system response time is 3 seconds,PE
+on 112 connection system response time is 6 seconds,PE
+product provides asynchronous messaging to avoid communications overhead,PE
+product provides load balancing to avoid traffic,PE
+product processes messages in 2 seconds,PE
+product asks system for new messages every second,PE
+product provides scalability to ensure services availability,PE
+application is able to complete user transactions in 1 second,PE
+response time is 10 seconds,PE
+in 10 seconds all web pages must be downloadable with 256 connection,PE
+responses to search take 7 seconds to load,PE
+system displays messages to users in 4 seconds,PE
+responses to view information appear on screen in 5 seconds,PE
+high speed network and connectivity is required,PE
+system must have short response time,PE
+there are 5 seconds overhead time to database transactions time,PE
+products initial load time depends on internet connection speed,PE
+performance depends on client hardware components,PE
+any page of application take 6 seconds to load,PE
+system slow down on heavy loads to ensure services availability,PE
+100 concurrent users are supported without performance degradation,PE
+secondary servers must be available in case of heavy loads,PE
+users must login according to restricted access policy,SE
+only users with update access can update disputes,SE
+correct combination of username and password is required,SE
+all authorized users are able to enter system,SE
+users cant login 2 tablet simultaneously,SE
+identity theft and other security issues must be solved,SE
+user access are limited to rights permissions,SE
+only authorized users can access system,SE
+web browser mustnt display customer password,SE
+system server mustnt display customer password,SE
+access rights can be assigned to users,SE
+system uses 1 password per user to login,SE
+username and password are used for authentication,SE
+system must prevent malicious attacks,SE
+system mustnt leave cookies with confidential data,SE
+addresses from where transactions are done will be recorded,SE
+players havent permission to access other players data,SE
+product provides authentication and authorization,SE
+all login are done securely,SE
+revoked user accounts only can be reset by administrator,SE
+only authorized users can login,SE
+secure server is required to ensure confidentiality of customer credit card data,SE
+confidential data is encrypted before being sent over insecure connections,SE
+supervisors can access and advertise empty time slots,SE
+system usage mustnt harm human users,SE
+web browser mustnt display customers credit card number from database,SE
+each account securely stores all of its data,SE
+susan have access to class scheduling,SE
+system generates user report,SE
+only registered customers can purchase streaming movies,SE
+display requires no user login,SE
+website is protected against security abuse,SE
+system automatically log all customers out after period of inactivity,SE
+product mustnt provide players information about another player,SE
+each unique login id and password is encoded in database using sha2 algorithm,SE
+network transactions with confidential information must be encrypted,SE
+system must use secured database,SE
+product stores messages for security audit purposes,SE
+users can login only 1 tablet for security reasons,SE
+surface computer requires no user login,SE
+system has different access constraints for users,SE
+all credit card information are encrypted in database,SE
+only adjusters can request recycled parts audit reports,SE
+system shows private information according policy,SE
+system uses protected database,SE
+product mustnt have viruses,SE
+user actions are recorded on user report,SE
+system notifies customers of changes to information policy,SE
+secure data transfer over internet is provided using ssl encryption,SE
+only administrators can view schedule,SE
+only supervisors can advertise empty time slots,SE
+administrators have access to confidential site information,SE
+user permissions are defined outside scope of system,SE
+system automatically log customers out after period of inactivity,SE
+only registered realtors have access to system,SE
+server is only accessible to authenticated administrators,SE
+only administrator can reset revoked user accounts,SE
+only authorized users can use system from other locations,SE
+system mustnt leave cookies on customers computer containing passwords,SE
+only approved users have access,SE
+system is protected against malicious interference,SE
+product receives automatic software updates for new viruses,SE
+users are required to login for all operations,SE
+only administrators can activate prepaid card,SE
+system uses ssl in all transactions with confidential information,SE
+application must log user out when it is exited,SE
+system is easy for administrators to use,US
+users are able to successfully complete tasks,US
+number of users mistakes should decrease in first 2 months,US
+system is intuitive for administrators,US
+users are able to complete game without training,US
+administrator successfully uses system,US
+system uses symbols as defined by company,US
+system supports user in their tasks,US
+user have access to support page,US
+search for available rooms is intuitive,US
+product helps customer with buying preferences,US
+it takes 120 seconds for account registration,US
+menus of system are easy to navigate using buttons,US
+help page contain support answers to issues,US
+product is easy for realtors to learn,US
+realtors can use system without training,US
+untrained realtors can install product without separate instructions,US
+system allows user to view campus map from map page,US
+novice customers easily purchase streaming movies,US
+adjusters find product easy to use,US
+website interacts with user using standard conventions,US
+all functionality navigation can be done with mouse,US
+users access their streaming movies in 2 click after login,US
+interface of system is user friendly and intuitive,US
+users are able to use application without instructions,US
+interface adheres to usability standard,US
+in 30 seconds user is able to navigate through home page,US
+product provides users with colored feedback,US
+untrained users can use product without instructions,US
+survey shows that customers are comfortable purchasing streaming,US
+user survey reports regular product usage,US
+product is easy for administrators to use after 2 days of usage,US
+system is easy to use,US
+system helps users avoid making mistakes,US
+product use words easy to understand,US
+it takes 90 seconds to users to buy movies,US
+users are able to reach player management page with 1 click from home page,US
+system provides use of symbols and buttons,US
+system provides digital image for products in catalog,US
+product must conform with disabilities act,US
+users are able to select languages,US
+product has customization of home page,US
+product increases productivity of adjusters,US
+users can learn product in 2 days,US
+users are able to successfully reserve rooms in 5 minutes,US
+system is intuitive when displays data,US
+projected data is readable,US
+product is available to players who understand english,US
+disputes are colored for easy status identification,US
+product displays time according to user local time,US
+product is usable by novice users,US
+product uses standard navigation menus,US
+users navigate through 2 pages to create an account,US
+callers and supervisors are able to complete tasks in 2 minutes,US
+symbols and words are easy to understand,US
+system provides accessiibility according to disabilities act,US
+users are able to view 10 player information at home page,US
+training session is scheduled for users,US
+application asks user confirmation before actions are done,US
+users easily find instructions during product usage,US
+website have site map to quickly access system,US
+add new user to system takes 10 minutes,US
+users are able to complete tasks in defined time,US
+user is able to use system without instructions,US
+users successfully create disputes after first training,US
+product is intuitive and easy,US

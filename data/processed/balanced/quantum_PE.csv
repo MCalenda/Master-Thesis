@@ -1,0 +1,133 @@
+RequirementText,Class
+system updates display every 60 seconds,PE
+product responds quickly,PE
+product returns search results in acceptable time,PE
+search results are returned in 30 seconds,PE
+product generates reports in acceptable time,PE
+reports are returned in 60 seconds,PE
+product synchronizes contacts in acceptable time,PE
+product synchronizes with system every hour,PE
+system must allow users to complete tasks in acceptable time,PE
+response time for tasks is 5 seconds,PE
+navigation between screens takes 5 seconds,PE
+application support 350 concurrent users without performance degradation,PE
+search results are returned in 15 seconds,PE
+search for repairs takes 8 seconds,PE
+audit reports are returned in 10 seconds,PE
+repairs are done in 5 seconds,PE
+system responses must be fast,PE
+create inventory takes 30 minutes,PE
+system allows 6 users to work simultaneously,PE
+in 5 seconds administrators can activate prepaid card,PE
+in 5 seconds customers can check status of prepaid card,PE
+system allows customers registration in 5 minutes,PE
+system allows user enter website in 1 minute,PE
+in 5 seconds customers can login website,PE
+system allows customers to cancel their accounts in 2 minutes,PE
+in 1 minute administrators are able to revoke account,PE
+administrators are able to add movies in 5 minutes,PE
+system allows administrator to cancel movies in 5 minutes,PE
+system allows manager to access statistics in 2 minutes,PE
+administrators generates unique pin in 2 minutes,PE
+interface between user and system has 5 seconds of response time,PE
+purchasing streaming movies have response time of 15 seconds,PE
+stream buffering time take 10 seconds,PE
+stream buffering occur when there is latency in user connection,PE
+update rights takes 2 minutes,PE
+add new products to website takes 2 minutes,PE
+lead time is completed in 5 minutes,PE
+lead reports take 25 seconds for all leads,PE
+data are recorded when leads take 25 seconds,PE
+process fit within processing time constraints,PE
+product supports 1000 games simultaneously,PE
+response time is fast to ensure flow of game,PE
+response time is 2 seconds,PE
+system is fast and responsive,PE
+on 256 connection system response time is 3 seconds,PE
+on 112 connection system response time is 6 seconds,PE
+product provides asynchronous messaging to avoid communications overhead,PE
+product provides load balancing to avoid traffic,PE
+product processes messages in 2 seconds,PE
+product asks system for new messages every second,PE
+product provides scalability to ensure services availability,PE
+application is able to complete user transactions in 1 second,PE
+response time is 10 seconds,PE
+in 10 seconds all web pages must be downloadable with 256 connection,PE
+responses to search take 7 seconds to load,PE
+system displays messages to users in 4 seconds,PE
+responses to view information appear on screen in 5 seconds,PE
+high speed network and connectivity is required,PE
+system must have short response time,PE
+there are 5 seconds overhead time to database transactions time,PE
+products initial load time depends on internet connection speed,PE
+performance depends on client hardware components,PE
+any page of application take 6 seconds to load,PE
+system slow down on heavy loads to ensure services availability,PE
+100 concurrent users are supported without performance degradation,PE
+secondary servers must be available in case of heavy loads,PE
+merchant database provides merchant information,O
+players havent permission to access other players data,SE
+data transactions between client and server must be encrypted using ssl technology,SE
+application isnt available during scheduled maintenance windows,O
+username and password are used for authentication,SE
+untrained users can use product without instructions,US
+application interacts with other application,O
+interface adheres to usability standard,US
+company havent permission to view another data,SE
+users are able to complete tasks in defined time,US
+information transmission is securely transmitted to server,SE
+susan have access to class scheduling,SE
+access rights can be assigned to users,SE
+system databases are encrypted,SE
+users havent permission to access files and databases,SE
+users cant login 2 tablet simultaneously,SE
+system is easy to use,US
+valid user id and password are required for transactions,SE
+system automatically log all customers out after period of inactivity,SE
+only adjusters can search for recycled parts,SE
+system provides use of symbols and buttons,US
+product integrates with database management system,O
+system is installed on currently hardware computer,O
+website have site map to quickly access system,US
+only adjusters can request recycled parts audit reports,SE
+each unique login id and password is encoded in database using sha2 algorithm,SE
+only administrators can activate prepaid card,SE
+system shows private information according policy,SE
+product displays time according to user local time,US
+product interacts with parts system,O
+add new user to system takes 10 minutes,US
+users are able to view 10 player information at home page,US
+product mustnt provide players information about another player,SE
+system uses ssl in all transactions with confidential information,SE
+in 30 seconds user is able to navigate through home page,US
+product provides authentication and authorization,SE
+correct combination of username and password is required,SE
+website is protected against security abuse,SE
+system is intuitive when displays data,US
+system doesnt require third party license,O
+product helps administrators analyze transactions with reports,US
+system has different access constraints for users,SE
+users are able to complete game without training,US
+website supports java,O
+only authorized users have access to users personal information,SE
+system is used within specifications defined by computers administrators,O
+system interacts with primary server,O
+callers and supervisors are able to complete tasks in 2 minutes,US
+data integrity scripts check integrity of database,SE
+product uses protocols to process messages in real time,O
+server is only accessible to authenticated administrators,SE
+normal users can read information without edit anything,SE
+product interacts with various servers,O
+there are different rights access and authorization,SE
+reports are generated in 2 buttons click,US
+users must be authenticated with username and password,SE
+web browser mustnt display customers credit card number from database,SE
+product is easy for realtors to learn,US
+product must conform with disabilities act,US
+users can learn product in 2 days,US
+adjusters find product easy to use,US
+system must prevent malicious attacks,SE
+system interacts with databases,O
+user access are limited to rights permissions,SE
+system notifies customers of changes to information policy,SE
+customers must have valid login id to enter site,SE

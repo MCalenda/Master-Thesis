@@ -1,0 +1,171 @@
+RequirementText,Class
+projected data is readable,US
+text projected on screens is readable,US
+product is intuitive and easy,US
+realtors can use system without training,US
+system is easy to use,US
+product is easy for realtors to learn,US
+symbols and words are easy to understand,US
+untrained realtors can install product without separate instructions,US
+untrained users can use product without instructions,US
+system is easy for administrators to use,US
+all users can use system after 1 day of training,US
+system helps users avoid making mistakes,US
+number of users mistakes should decrease in first 2 months,US
+system is intuitive for administrators,US
+administrator successfully uses system,US
+system uses symbols and words easy to understand,US
+system text is consistent with standard english,US
+disputes are colored for easy status identification,US
+users have regular application usage after training,US
+users successfully create disputes after first training,US
+users are able to successfully complete tasks,US
+adjusters find product easy to use,US
+product increases productivity of adjusters,US
+user increases their productivity with product,US
+users can learn product in 2 days,US
+users easily find instructions during product usage,US
+user survey reports regular product usage,US
+users are able to successfully reserve rooms in 5 minutes,US
+product provides users with colored feedback,US
+users are able to select languages,US
+product has customization of home page,US
+users are able to successfully use product,US
+product uses standard navigation menus,US
+search for available rooms is intuitive,US
+product must conform with disabilities act,US
+add new user to system takes 10 minutes,US
+user have access to support page,US
+product is translated in other languages,US
+product displays time according to user local time,US
+product is usable by novice users,US
+users navigate through 2 pages to create an account,US
+users access their streaming movies in 2 click after login,US
+survey shows that customers are comfortable purchasing streaming,US
+survey shows that customers are comfortable using system,US
+product helps customer with buying preferences,US
+novice customers easily purchase streaming movies,US
+product use words easy to understand,US
+website interacts with user using standard conventions,US
+help page contain support answers to issues,US
+users are able to complete game without training,US
+product is available to players who understand english,US
+callers and supervisors are able to complete tasks in 2 minutes,US
+system is easy to learn for callers and supervisors,US
+product is easy for administrators to use after 2 days of usage,US
+product helps administrators resolve issues in transactions,US
+product helps administrators analyze transactions with reports,US
+all functionality navigation can be done with mouse,US
+interface adheres to usability standard,US
+reports are generated in 2 buttons click,US
+user is able to use system without instructions,US
+training session is scheduled for users,US
+system uses symbols as defined by company,US
+in 30 seconds user is able to navigate through home page,US
+users are able to reach player management page with 1 click from home page,US
+users are able to view 10 player information at home page,US
+application asks user confirmation before actions are done,US
+users are able to complete tasks in defined time,US
+system has help system for data on screen,US
+system is user friendly for managers and chefs,US
+system is quickly accessible by managers and chefs,US
+system is intuitive when displays data,US
+menus of system are easy to navigate using buttons,US
+users are able to use application without instructions,US
+system allows user to view campus map from map page,US
+system provides return buttons to home page,US
+system supports user in their tasks,US
+system provides digital image for products in catalog,US
+system provides use of symbols and buttons,US
+system provides accessiibility according to disabilities act,US
+system provides multi languages support,US
+system asks for confirmation for all transactions,US
+interface of system is user friendly and intuitive,US
+it takes 120 seconds for account registration,US
+it takes 90 seconds to users to buy movies,US
+website have site map to quickly access system,US
+system is protected against viruses,SE
+system interacts with firefox browser,O
+product interacts with various servers,O
+only administrators can activate prepaid card,SE
+only authorized users can use system from other locations,SE
+streaming server have security software to prevent viruses,SE
+system must use secured database,SE
+revoked user accounts only can be reset by administrator,SE
+application runs on web application server,O
+data transactions between client and server must be encrypted using ssl technology,SE
+only authorized users can access system,SE
+secondary servers must be available in case of heavy loads,PE
+system mustnt leave cookies on customers computer containing passwords,SE
+product is available for license,O
+responses to search take 7 seconds to load,PE
+in 10 seconds all web pages must be downloadable with 256 connection,PE
+system generates pin for users to prevent attacks,SE
+100 concurrent users are supported without performance degradation,PE
+in 1 minute administrators are able to revoke account,PE
+maintenance occur in established maintenance windows,O
+system uses 1 password per user to login,SE
+meeting scheduler is accessed from web,O
+only administrator can reset revoked user accounts,SE
+all authorized users are able to enter system,SE
+response time is 10 seconds,PE
+only registered realtors have access to system,SE
+administrators have access to confidential site information,SE
+system uses periodic messages,O
+interface between user and system has 5 seconds of response time,PE
+susan have access to users personal information,SE
+all credit card information are encrypted in database,SE
+product mustnt have viruses,SE
+lead process operates within established architecture,O
+system stores location where product will be sent,O
+users cant login 2 tablet simultaneously,SE
+reports are returned in 60 seconds,PE
+movies are encoded for connections 256,O
+company havent permission to view another data,SE
+movies are available from browser,O
+website supports java,O
+only authorized users have access to database,SE
+customer can stream only purchased movies,SE
+product stores messages for security audit purposes,SE
+system interacts with master server,O
+product interacts with browser,O
+user passwords are stored in database in encrypted format,SE
+product is developed with java libraries,O
+username and password are used for authentication,SE
+system is installed on currently hardware computer,O
+web browser mustnt display customers credit card number from database,SE
+system is used within specifications defined by computers administrators,O
+system is fast and responsive,PE
+system is able to provide information from database to catalog,O
+all users of system must login using unique identification,SE
+same hardware will be used when install new system,O
+application isnt available during scheduled maintenance windows,O
+user access are limited to rights permissions,SE
+data are recorded when leads take 25 seconds,PE
+personal information security is defined by database server,SE
+product runs from web server,O
+system operates within windows xp operating system,O
+system responses must be fast,PE
+product mustnt provide players information about another player,SE
+every user of system must authenticate,SE
+system integrates with other services,O
+only valid data must be entered in system,SE
+product processes messages in 2 seconds,PE
+product uses protocols to process messages in real time,O
+system interacts with environment,O
+product uses web application server technology,O
+system interacts with databases,O
+system allows user enter website in 1 minute,PE
+system uses security mechanisms to prevent unauthorized access,SE
+stream buffering occur when there is latency in user connection,PE
+system must have short response time,PE
+only managers are able to search for reserve,SE
+search for repairs takes 8 seconds,PE
+system doesnt require third party license,O
+password used for tablet login must have 64 bit strength,SE
+application interacts with billing system,O
+on 112 connection system response time is 6 seconds,PE
+product can be installed in any operating environment,O
+all login are done securely,SE
+system allows 6 users to work simultaneously,PE
+password used for tablet login must be changed every 3 months,SE

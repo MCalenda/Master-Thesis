@@ -1,0 +1,133 @@
+RequirementText,Class
+system update display every second,PE
+product responds quickly,PE
+product return search result acceptable time,PE
+search result returned second,PE
+product generates report acceptable time,PE
+report returned second,PE
+product synchronizes contact acceptable time,PE
+product synchronizes system every hour,PE
+system must allow user complete task acceptable time,PE
+response time task second,PE
+navigation screen take second,PE
+application support concurrent user without performance degradation,PE
+search result returned second,PE
+search repair take second,PE
+audit report returned second,PE
+repair done second,PE
+system response must fast,PE
+create inventory take minute,PE
+system allows user work simultaneously,PE
+second administrator activate prepaid card,PE
+second customer check status prepaid card,PE
+system allows customer registration minute,PE
+system allows user enter website minute,PE
+second customer login website,PE
+system allows customer cancel account minute,PE
+minute administrator able revoke account,PE
+administrator able add movie minute,PE
+system allows administrator cancel movie minute,PE
+system allows manager access statistic minute,PE
+administrator generates unique pin minute,PE
+interface user system second response time,PE
+purchasing streaming movie response time second,PE
+stream buffering time take second,PE
+stream buffering occur latency user connection,PE
+update right take minute,PE
+add new product website take minute,PE
+lead time completed minute,PE
+lead report take second lead,PE
+data recorded lead take second,PE
+process fit within processing time constraint,PE
+product support game simultaneously,PE
+response time fast ensure flow game,PE
+response time second,PE
+system fast responsive,PE
+connection system response time second,PE
+connection system response time second,PE
+product provides asynchronous messaging avoid communication overhead,PE
+product provides load balancing avoid traffic,PE
+product process message second,PE
+product asks system new message every second,PE
+product provides scalability ensure service availability,PE
+application able complete user transaction second,PE
+response time second,PE
+second web page must downloadable connection,PE
+response search take second load,PE
+system display message user second,PE
+response view information appear screen second,PE
+high speed network connectivity required,PE
+system must short response time,PE
+second overhead time database transaction time,PE
+product initial load time depends internet connection speed,PE
+performance depends client hardware component,PE
+page application take second load,PE
+system slow heavy load ensure service availability,PE
+concurrent user supported without performance degradation,PE
+secondary server must available case heavy load,PE
+merchant database provides merchant information,O
+player havent permission access player data,SE
+data transaction client server must encrypted using ssl technology,SE
+application isnt available scheduled maintenance window,O
+username password used authentication,SE
+untrained user use product without instruction,US
+application interacts application,O
+interface adheres usability standard,US
+company havent permission view another data,SE
+user able complete task defined time,US
+information transmission securely transmitted server,SE
+susan access class scheduling,SE
+access right assigned user,SE
+system database encrypted,SE
+user havent permission access file database,SE
+user cant login tablet simultaneously,SE
+system easy use,US
+valid user password required transaction,SE
+system automatically log customer period inactivity,SE
+adjuster search recycled part,SE
+system provides use symbol button,US
+product integrates database management system,O
+system installed currently hardware computer,O
+website site map quickly access system,US
+adjuster request recycled part audit report,SE
+unique login password encoded database using sha2 algorithm,SE
+administrator activate prepaid card,SE
+system show private information according policy,SE
+product display time according user local time,US
+product interacts part system,O
+add new user system take minute,US
+user able view player information home page,US
+product mustnt provide player information another player,SE
+system ssl transaction confidential information,SE
+second user able navigate home page,US
+product provides authentication authorization,SE
+correct combination username password required,SE
+website protected security abuse,SE
+system intuitive display data,US
+system doesnt require third party license,O
+product help administrator analyze transaction report,US
+system different access constraint user,SE
+user able complete game without training,US
+website support java,O
+authorized user access user personal information,SE
+system used within specification defined computer administrator,O
+system interacts primary server,O
+caller supervisor able complete task minute,US
+data integrity script check integrity database,SE
+product protocol process message real time,O
+server accessible authenticated administrator,SE
+normal user read information without edit anything,SE
+product interacts various server,O
+different right access authorization,SE
+report generated button click,US
+user must authenticated username password,SE
+web browser mustnt display customer credit card number database,SE
+product easy realtor learn,US
+product must conform disability act,US
+user learn product day,US
+adjuster find product easy use,US
+system must prevent malicious attack,SE
+system interacts database,O
+user access limited right permission,SE
+system notifies customer change information policy,SE
+customer must valid login enter site,SE

@@ -1,0 +1,155 @@
+RequirementText,Class
+system operates in office environment,O
+system is used within specifications defined by computers administrators,O
+system operates within windows xp operating system,O
+system interacts with primary server,O
+system interacts with databases,O
+system interacts with master server,O
+application interacts with browser,O
+application isnt available during scheduled maintenance windows,O
+application interacts with master database,O
+users information are recorded in users database,O
+merchant database provides merchant information,O
+application interacts with other application,O
+application interacts with billing system,O
+product supports internet explorer browser,O
+product must support mozilla firefox browser,O
+product interacts with parts system,O
+product runs on existing hardware,O
+product adheres to company architecture guidelines,O
+product operates in noisy environment,O
+product interacts with other systems daily,O
+maintenance occur in established maintenance windows,O
+product is supported using company server center,O
+hardware are handled by technology team,O
+product works with database management systems,O
+product works on systems with database installed,O
+database management system is on separate machine,O
+product uses web application server technology,O
+product integrates with database management system,O
+product is used in office environment,O
+product interacts with browser,O
+product successfully interacts with database management system,O
+product interacts with various servers,O
+product is distributed via internet,O
+product is distributed as cd,O
+product is available for license,O
+product integrate with various technology,O
+product can be installed in any operating environment,O
+product is developed with java libraries,O
+system is installed on currently hardware computer,O
+system automatically backups data,O
+system doesnt require third party license,O
+all parts of website are accessed via web browser,O
+same hardware will be used when install new system,O
+system interacts with firefox browser,O
+website interacts with server to process credit card transactions,O
+website supports java,O
+movies are available from browser,O
+movies are encoded for connections 256,O
+product is installed in specified environment in 1 day,O
+website uses flash libraries for animation on home page,O
+lead process operates within established architecture,O
+process use neutral data format when processing lead data,O
+product enables access to any development environment,O
+product uses protocols to process messages in real time,O
+system is installed on windows,O
+system is able to update files,O
+application runs on web application server,O
+primary database is used to store cached data,O
+secondary database is used to store statistics and data,O
+user computers have minimum hardware requirements,O
+minimum software requirements are 1000 gb hard disk,O
+system interacts with environment,O
+system can be invoked by typing start,O
+system uses mail protocols,O
+meeting scheduler is accessed from web,O
+data entry forms for application match their microsoft excel copy,O
+system uses periodic messages,O
+market system interacts with web server using api,O
+application only updates parts that have changed,O
+application can change and update information on server,O
+system stores location where product will be sent,O
+system provides data of all databases on redundant computers,O
+system is able to provide information from database to catalog,O
+system integrates with other services,O
+network connectivity should be fast for operations and data load,O
+system is compatible with microsoft windows,O
+product runs from web server,O
+response time for tasks is 5 seconds,PE
+only authorized users can access customer recorded data in database,SE
+full data backups are created daily,SE
+product supports 1000 games simultaneously,PE
+performance depends on client hardware components,PE
+normal users can read information without edit anything,SE
+in 5 seconds customers can check status of prepaid card,PE
+addresses from where transactions are done will be recorded,SE
+system uses secured communications in all transactions,SE
+product mustnt provide players information about another player,SE
+product uses standard navigation menus,US
+tablet requires user to login using username and password,SE
+system uses security mechanisms to prevent unauthorized access,SE
+system allows customers to cancel their accounts in 2 minutes,PE
+it takes 120 seconds for account registration,US
+product use words easy to understand,US
+responses to search take 7 seconds to load,PE
+users can learn product in 2 days,US
+password used for tablet login must have 64 bit strength,SE
+all generated passwords are stored encrypted in database,SE
+navigation between screens takes 5 seconds,PE
+user survey reports regular product usage,US
+application asks user confirmation before actions are done,US
+product provides authentication and authorization,SE
+website have site map to quickly access system,US
+information transmission is securely transmitted to server,SE
+user have access to support page,US
+users have regular application usage after training,US
+symbols and words are easy to understand,US
+stream buffering time take 10 seconds,PE
+all users can use system after 1 day of training,US
+supervisors can access and advertise empty time slots,SE
+number of users mistakes should decrease in first 2 months,US
+product stores messages for security audit purposes,SE
+server is only accessible to authenticated administrators,SE
+product provides users with colored feedback,US
+each unique login id and password is encoded in database using sha2 algorithm,SE
+web browser mustnt display customers credit card number from database,SE
+realtors can use system without training,US
+only adjusters can search for recycled parts,SE
+application support 350 concurrent users without performance degradation,PE
+username and password are used for authentication,SE
+only adjusters can request recycled parts audit reports,SE
+system is intuitive for administrators,US
+customer can stream only purchased movies,SE
+valid user id and password are required for transactions,SE
+every user of system must authenticate,SE
+system responses must be fast,PE
+system asks for confirmation for all transactions,US
+100 concurrent users are supported without performance degradation,PE
+product receives automatic software updates for new viruses,SE
+on 256 connection system response time is 3 seconds,PE
+system mustnt leave cookies on customers computer containing passwords,SE
+product synchronizes with system every hour,PE
+product helps administrators analyze transactions with reports,US
+product returns search results in acceptable time,PE
+system mustnt leave cookies with confidential data,SE
+only registered customers can purchase streaming movies,SE
+only authorized users have access to users personal information,SE
+only approved users have access,SE
+system server mustnt display customer password,SE
+only authorized users can use system from other locations,SE
+system has data integrity checking,SE
+data are recorded when leads take 25 seconds,PE
+untrained realtors can install product without separate instructions,US
+in 10 seconds all web pages must be downloadable with 256 connection,PE
+system generates pin for users to prevent attacks,SE
+supervisors have access to repairs,SE
+website notifies users about privacy policy,SE
+only supervisors can advertise empty time slots,SE
+website interacts with user using standard conventions,US
+streaming server have security software to prevent viruses,SE
+password used for tablet login must be changed every 3 months,SE
+product has customization of home page,US
+only registered realtors have access to system,SE
+web browser mustnt display customer password,SE
+users can login only 1 tablet for security reasons,SE
